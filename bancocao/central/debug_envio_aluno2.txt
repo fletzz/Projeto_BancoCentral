@@ -1,0 +1,54 @@
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":50}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":30}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":20}
+Resposta: <br />
+<b>Fatal error</b>:  Uncaught Error: Undefined constant &quot;_DIR_&quot; in C:\xampp\htdocs\bancoteste2\aluno2\receber_credito.php:4
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\bancoteste2\aluno2\receber_credito.php</b> on line <b>4</b><br />
+
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":10}
+Resposta: <br />
+<b>Fatal error</b>:  Uncaught Error: Undefined constant &quot;_DIR_&quot; in C:\xampp\htdocs\bancoteste2\aluno2\receber_credito.php:5
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\bancoteste2\aluno2\receber_credito.php</b> on line <b>5</b><br />
+
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":10}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":40}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":20}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"54321","valor":10}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://banco-central.loca.lt/bancoteste2/aluno2/receber_credito.php
+Payload: {"conta_destino":"11223","valor":10}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://teste.loca.lt/Banco/transferencias.php
+Payload: {"conta_destino":"11223","valor":10}
+Resposta: <br />
+<b>Fatal error</b>:  Uncaught Error: Undefined constant &quot;DIR&quot; in C:\xampp\htdocs\Banco\transferencias.php:5
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\Banco\transferencias.php</b> on line <b>5</b><br />
+
+URL: https://teste.loca.lt/Banco/transferencias.php
+Payload: {"conta_destino":"11223","valor":10}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://teste.loca.lt/Banco/transferencias.php
+Payload: {"conta_destino":"11223","valor":70}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
+URL: https://teste.loca.lt/Banco/transferencias.php
+Payload: {"conta_destino":"11223","valor":30}
+Resposta: {"status":"ok","msg":"Valor creditado na conta destino."}
