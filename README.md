@@ -1,4 +1,4 @@
-# BancoCao - Sistema de Transferências Bancárias
+# BancoCentral - Sistema de Transferências Bancárias
 
 Um sistema bancário distribuído desenvolvido em PHP e MySQL que simula operações bancárias entre diferentes instituições. O projeto implementa um sistema de transferências entre bancos, com uma central de processamento que gerencia e valida as transações.
 
@@ -56,6 +56,3 @@ O projeto está em desenvolvimento ativo e passando por testes iniciais. Atualiz
 
 Este projeto está sob licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-## 🤝 Contribuições
-
-Contribuições são sempre bem-vindas! Por favor, sinta-se à vontade para abrir uma issue ou enviar um pull request.
